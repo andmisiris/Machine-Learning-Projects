@@ -15,4 +15,4 @@ In this repository, will be showcased some machine learning projects in Python.
 
 4. MNIST Dataset.
 
-   In this notebook, we check out how effective are the Convolutional Neural Networks and their accuracy.
+   In this notebook, we check out how effective are the Convolutional Neural Networks and their accuracy (almost 99%).
