@@ -12,3 +12,7 @@ In this repository, will be showcased some machine learning projects in Python.
 3. seeds Dataset.
 
    An application of K-means on a high-dimensional dataset and dimensionality reduction using PCA.
+
+4. MNIST Dataset.
+
+   In this notebook, we check out how effective are the Convolutional Neural Networks and their accuracy.
