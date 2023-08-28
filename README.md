@@ -16,3 +16,7 @@ In this repository, will be showcased some machine learning projects in Python.
 4. MNIST Dataset.
 
    In this notebook, we check out how effective are the Convolutional Neural Networks and their accuracy (almost 99%).
+
+5. Natural Language Processing.
+
+   In this notebook, we tackle a NLP problem with the usage of BERT and word embeddings.
